@@ -1,1 +1,1 @@
-# Sync-Interns
+# Artificial intelligence Projects
